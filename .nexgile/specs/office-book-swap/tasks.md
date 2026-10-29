@@ -1,6 +1,6 @@
 # Tasks: Office Book Swap
 
-- [ ] 1. Project setup
+- [x] 1. Project setup
   - _Requirements: 1.1_
   - _Files: package.json, src/**_
   - _Verify: npm test_
