@@ -4,3 +4,8 @@
 .nexgile/greenfield/checkpoints/
 .nexgile/greenfield/mockups/
 docs/input/
+
+# Build output and installed dependencies
+node_modules/
+dist/
+data/
